@@ -7,7 +7,7 @@ get '/' do
   fontsize = 24
   message_set = [
     'えんもたけなわ',
-    '機械を通すと俺の心が通らなくなる'
+    '機械を通すと俺の心が通らなくなる',
     'えっち、すけっち、わんたっち'
   ]
   background_color_set = [
